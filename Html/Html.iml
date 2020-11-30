@@ -7,6 +7,5 @@
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="[IC2EXP]industrialcraft-2-2.2.791-experimental" level="project" />
   </component>
 </module>
