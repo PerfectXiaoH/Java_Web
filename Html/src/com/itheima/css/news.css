@@ -1,0 +1,70 @@
+/*
+    对顶部div进行样式控制
+ */
+.top {
+    background: black;
+    line-height: 40px;
+    text-align: right;
+    font-size: 20px;
+}
+.top a {
+    color: white;
+}
+.footer a {
+    color: white;
+}
+a:hover {
+    color: red;
+}
+/*
+    控制导航条的行高
+ */
+.nav {
+    line-height: 40px;
+}
+/*
+    控制左侧导航条的样式控制
+ */
+.left {
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+/*
+    设置左侧图片的大小
+ */
+.left img {
+    width: 38px;
+    height: 38px;
+}
+.left span {
+    vertical-align: 50%;
+}
+/*
+    正文样式设置
+ */
+.center {
+    width: 60%;
+    float: left;
+}
+/*
+    右侧图片样式设置
+ */
+.right {
+    width: 20%;
+    float: left;
+}
+/*底部超链接的div样式*/
+.footer{
+    /*清除浮动效果*/
+    clear: both;
+    /*文本对齐方式*/
+    text-align: center;
+    /*背景颜色*/
+    background: blue;
+    line-height: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
