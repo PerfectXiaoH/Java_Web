@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Html/Html.iml" filepath="$PROJECT_DIR$/Html/Html.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Servlet/Servlet.iml" filepath="$PROJECT_DIR$/Servlet/Servlet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ServletDemo03/ServletDemo03.iml" filepath="$PROJECT_DIR$/ServletDemo03/ServletDemo03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Servlet_demo02/Servlet_demo02.iml" filepath="$PROJECT_DIR$/Servlet_demo02/Servlet_demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet_demo1/Servlet_demo1.iml" filepath="$PROJECT_DIR$/Servlet_demo1/Servlet_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet_demo2/Servlet_demo2.iml" filepath="$PROJECT_DIR$/Servlet_demo2/Servlet_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet_demo3/Servlet_demo3.iml" filepath="$PROJECT_DIR$/Servlet_demo3/Servlet_demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/request_demo/request_demo.iml" filepath="$PROJECT_DIR$/request_demo/request_demo.iml" />
     </modules>
   </component>
 </project>
